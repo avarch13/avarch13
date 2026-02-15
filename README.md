@@ -1,3 +1,3 @@
--  Hi, I’m @avarch13
--  I’m interested in work on Java projects to gain experience 
--  I’m currently learning Java
+-  Hi!
+-  
+-  I’m currently learning Java Spring Boot
